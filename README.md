@@ -3,6 +3,6 @@ My first attempt at creating a repository.
 
 #testrepo
 
-## Ediitng the File
+## Editng the File
 
 Its a markdown file in this repository.
